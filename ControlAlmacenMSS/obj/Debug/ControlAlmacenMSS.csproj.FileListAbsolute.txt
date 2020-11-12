@@ -1,0 +1,26 @@
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\ControlAlmacenMSS.exe.config
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\ControlAlmacenMSS.exe
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\ControlAlmacenMSS.pdb
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csprojAssemblyReference.cache
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.InicioSesion.resources
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.Properties.Resources.resources
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csproj.GenerateResource.cache
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csproj.CoreCompileInputs.cache
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.exe
+C:\Users\Operador\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.pdb
+C:\Users\Operador\source\repos\controlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csproj.CopyComplete
+C:\Users\Operador\source\repos\controlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.GestionUsuarios.resources
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\ControlAlmacenMSS.exe.config
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\ControlAlmacenMSS.exe
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\ControlAlmacenMSS.pdb
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csprojAssemblyReference.cache
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.GestionUsuarios.resources
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.InicioSesion.resources
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.Properties.Resources.resources
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csproj.GenerateResource.cache
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.csproj.CopyComplete
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.exe
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\obj\Debug\ControlAlmacenMSS.pdb
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\BaseDatosCamss.mdf
+C:\Users\Ivan Valencia\source\repos\ControlAlmacenMSS\ControlAlmacenMSS\bin\Debug\BaseDatosCamss_log.ldf
